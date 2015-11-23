@@ -1,7 +1,7 @@
 List Of Programs
 1. [x] Stack using Arrays
 - [x] Stack using Node
-- [ ] Queue using Arrays
+- [x] Queue using Arrays
 - [x] Queue using Node
 - [ ] Lists using Arrays
 - [ ] Lists using Node
