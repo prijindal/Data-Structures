@@ -9,7 +9,7 @@ List Of Programs
 - [ ] Doubly Lists using Node
 - [ ] Circular Lists using Arrays
 - [ ] Circular Lists using Node
-- [ ] Binary Search
+- [x] Binary Search
 - [x] Sequential Search
 - [ ] bubble Sort
 - [ ] selection Sort
