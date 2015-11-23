@@ -1,5 +1,5 @@
 List Of Programs
-1. [ ] Stack using Arrays
+1. [x] Stack using Arrays
 - [x] Stack using Node
 - [ ] Queue using Arrays
 - [ ] Queue using Node
