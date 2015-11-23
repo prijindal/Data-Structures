@@ -10,7 +10,7 @@ List Of Programs
 - [ ] Circular Lists using Arrays
 - [ ] Circular Lists using Node
 - [ ] Binary Search
-- [ ] Sequential Search
+- [x] Sequential Search
 - [ ] bubble Sort
 - [ ] selection Sort
 - [ ] insertion Sort
