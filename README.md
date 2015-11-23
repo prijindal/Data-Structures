@@ -2,7 +2,7 @@ List Of Programs
 1. [x] Stack using Arrays
 - [x] Stack using Node
 - [ ] Queue using Arrays
-- [ ] Queue using Node
+- [x] Queue using Node
 - [ ] Lists using Arrays
 - [ ] Lists using Node
 - [ ] Doubly Lists using Arrays
