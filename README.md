@@ -11,9 +11,9 @@ List Of Programs
 - [ ] Circular Lists using Node
 - [x] Binary Search
 - [x] Sequential Search
-- [ ] bubble Sort
-- [ ] selection Sort
-- [ ] insertion Sort
+- [x] bubble Sort
+- [x] selection Sort
+- [x] insertion Sort
 - [ ] Quick sort
 - [ ] heap sort
 - [ ] Merge Sort
