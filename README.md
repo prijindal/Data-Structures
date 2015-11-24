@@ -3,12 +3,10 @@ List Of Programs
 - [x] Stack using Node
 - [x] Queue using Arrays
 - [x] Queue using Node
-- [ ] Lists using Arrays
-- [ ] Lists using Node
-- [ ] Doubly Lists using Arrays
-- [ ] Doubly Lists using Node
-- [ ] Circular Lists using Arrays
-- [ ] Circular Lists using Node
+- [x] Lists
+- [ ] Ordered List
+- [x] Doubly Lists
+- [x] Circular Lists
 - [x] Binary Search
 - [x] Sequential Search
 - [x] bubble Sort
@@ -19,10 +17,9 @@ List Of Programs
 - [x] Merge Sort
 - [x] Hashing Table
 
-- [ ] Binary trees
-- [ ] Binary Search Trees
+- [ ] Binary Search Tree with nodes
+- [ ] Binary Search Tree with Arrays
 - [ ] General Tree
-- [ ] Binary trees
 - [ ] Conversion of general tree to binary tree
 - [ ] Binary search tree Traversals
 - [ ] Expression Tree
