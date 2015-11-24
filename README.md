@@ -18,7 +18,7 @@ List Of Programs
 - [x] Hashing Table
 
 - [x] Binary Search Tree using nodes
-- [ ] Binary Search Tree using Arrays
+- [x] Binary Search Tree using Arrays
 - [ ] General Tree
 - [ ] Conversion of general tree to binary tree
 - [ ] Expression Tree
