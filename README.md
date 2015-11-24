@@ -17,11 +17,10 @@ List Of Programs
 - [x] Merge Sort
 - [x] Hashing Table
 
-- [ ] Binary Search Tree with nodes
-- [ ] Binary Search Tree with Arrays
+- [x] Binary Search Tree using nodes
+- [ ] Binary Search Tree using Arrays
 - [ ] General Tree
 - [ ] Conversion of general tree to binary tree
-- [ ] Binary search tree Traversals
 - [ ] Expression Tree
 
 - [ ] adjacency list
