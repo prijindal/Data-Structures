@@ -14,10 +14,10 @@ List Of Programs
 - [x] bubble Sort
 - [x] selection Sort
 - [x] insertion Sort
-- [ ] Quick sort
+- [x] Quick sort
 - [ ] heap sort
-- [ ] Merge Sort
-- [ ] Hashing Table
+- [x] Merge Sort
+- [x] Hashing Table
 
 - [ ] Binary trees
 - [ ] Binary Search Trees
